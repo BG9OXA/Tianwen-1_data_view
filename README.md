@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tianwen-1_data_view
 ## 天问一号数据展示与转换
 - 天问一号导航地形相机数据展示与转换v1.0
@@ -26,12 +25,3 @@ pip install numpy
 pip install pillow
 ```
 3. Open the corresponding Python script to use.
-
-
-
-
-
-
-=======
-# Tianwen-1_data_view
->>>>>>> e7f26ee (Initial commit)
